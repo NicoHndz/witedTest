@@ -1,5 +1,7 @@
 # witedtest
 
+Link Deploy: https://64ed2c998930350b5ae4b14a--lucent-tarsier-2567df.netlify.app/
+
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
