@@ -10,7 +10,7 @@ defineProps<Props>();
 </script>
 <template>
     <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4">
-        <div class="flex flex-col items-center" v-for="item in productsArray">
+        <div class="flex flex-col items-center justify-between" v-for="item in productsArray">
             <article>
                 <img :src="item.img" />
                 <img src="/public/graph2.png" />

@@ -13,7 +13,7 @@ import { RouterView } from 'vue-router'
 </template>
 
 <style>
-header {
+section {
     color: white;
     text-shadow: 1px 1px 2px grey;
 }
